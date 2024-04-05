@@ -1,0 +1,13 @@
+{
+    "orgs" : [
+        "octocat"
+    ],
+    "mode" : "all-users",
+    "ignores" : [
+        {
+            "username" : "gingeleski",
+            "admin" : "Randy Gingeleski",
+            "comments" : "This is just to show you can do this, maintaining some auditability."
+        }
+    ]
+}
